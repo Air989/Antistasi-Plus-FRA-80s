@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.4
+### Changes
+Changed thumbnail for the mod.
+
 ## 1.2.2
 ### Changes
 Changes and Fixes
