@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.3.4
+### Changes
+- Changed FRA starting gear so that they are in the correct time period.
+- Chnaged FRA Vehicles so that they are in the correct time period.
+- Fixed FRA arsenal not showing the weapons ammo.
+- Added USSR AI faction (not complete it still uses standard plus Vehicles and weapons)
+
 ## 1.2.4
 ### Changes
 - Changed thumbnail for the mod.
