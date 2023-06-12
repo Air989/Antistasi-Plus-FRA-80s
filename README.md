@@ -26,8 +26,8 @@ Khe Sanh
 Weferlingen
 
 Supported Modsets
-RHS - RHS AFRF, RHS GREF, RHS USAF, RHS SAF
-3CB Factions - RHS AFRF, RHS GREF, RHS USAF, RHS SAF, 3CB Factions
+- RHS - RHS AFRF, RHS GREF, RHS USAF, RHS SAF
+- CB Factions - RHS AFRF, RHS GREF, RHS USAF, RHS SAF, 3CB Factions
 SOG Prairie Fire
 Western Sahara
 Vanilla
