@@ -8,7 +8,7 @@ Current Maps That are Changed to Cold War:
 - Chernarus 2020
 - Livonia
 
-Supported Terrains
+Supported Terrains:
 - Altis
 - Malden
 - Tanoa
