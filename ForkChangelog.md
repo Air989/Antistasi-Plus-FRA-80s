@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.3.5
+### Changes
+- Changed money to USD
+- Changed FRA faction money from Dong to USD
+- Changed vehicle box prices
+- Changed Rebel faction flag to altis (temp flag will be changed soon)
+- Removed car not showing in faction
+
 ## 1.3.4
 ### Changes
 - Changed FRA starting gear so that they are in the correct time period.
